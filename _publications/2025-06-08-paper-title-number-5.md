@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Real-Time Machine Learning-Based Multivariate Time Series Anomaly Detection Control System for Reticle Manufacturing"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: patents
+permalink: /publication/2022-ml-anomaly-detection-patent
+excerpt: 'Patent for real-time ML-based anomaly detection system in semiconductor reticle manufacturing.'
+date: 2022-10-01
+venue: 'Patent Pending'
+paperurl: ''
+citation: 'Tung San Lai, et al. (2022). &quot;Real-Time Machine Learning-Based Multivariate Time Series Anomaly Detection Control System for Reticle Manufacturing.&quot; Patent pending.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This patent describes a novel machine learning-based system for real-time anomaly detection in semiconductor reticle manufacturing processes, utilizing multivariate time series analysis.
